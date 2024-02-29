@@ -16,7 +16,7 @@ The basic concept of Kampus Mengajar is to send college students to schools in r
 
 [View Platform](https://lookerstudio.google.com/u/0/reporting/d20975a5-2726-4dec-9d19-eb2eea7ae0f4/page/TMhoD)
 
-# Build a Data Tracker Platform as an Information Center for Stakeholders and Participants
+# Build a Data-Driven Tracker on Disbursement of Funds Progress
 Kampus Mengajar is a program that engages with many stakeholders and participants, contains more than 20.000+ College Students, 2000+ lecturers from more than 700 universities, and multiple regional institutions that operate in the field of education under The Ministry of Education, Culture, Research, and Technology. All of these stakeholders and participants are always in need of updated information about the program's current progression, especially regarding the disbursement of funds. As a data analyst of Kampus Mengajar, I created a dynamic data tracker platform with Google Data Studio, which will automatically be updated on a daily basis. The platform is able to connect and compile information from multiple worksheets of every division. This platform efficiently reduces the workload of the Stakeholder Relation Division by 70%.
 
 [View Platform](https://lookerstudio.google.com/u/0/reporting/65a8ed94-8d32-4737-805c-66162ffe5cfe/page/p_qkgndgqwad)
