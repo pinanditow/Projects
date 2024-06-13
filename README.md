@@ -21,7 +21,7 @@ Kampus Mengajar is a large-scale initiative encompassing tens of thousands of co
 
 [View Presentation](https://drive.google.com/file/d/1l9vjwra2v0ned6o15fqAIV3sZZZ3ibib/view)
 
-# Develop a Data-Driven Tracker for Fund Disbursement Progress
+# Develop a Data Tracker for Fund Disbursement Progress
 Kampus Mengajar is a comprehensive program involving over 20,000 college students, 2,000 lecturers from more than 700 universities, and various regional educational institutions under the Ministry of Education, Culture, Research, and Technology. Timely updates on the program's progress, particularly regarding fund disbursement, are critical for all stakeholders and participants. As a data analyst for Kampus Mengajar, I developed a dynamic data tracker using Google Data Studio. This platform, updated automatically on a daily basis, consolidates information from multiple division worksheets, significantly reducing the workload of the Stakeholder Relations Division by 70%.
 
 [View Data Studio](https://lookerstudio.google.com/u/0/reporting/65a8ed94-8d32-4737-805c-66162ffe5cfe/page/p_qkgndgqwad)
