@@ -6,6 +6,11 @@ Stakeholders of Kampus Mengajar require continuous updates on the participants' 
 
 [View Platform](https://lookerstudio.google.com/u/0/reporting/227f6922-d7a3-48a7-b49d-160deefc67da/page/pyQpD)
 
+# Analyzing the Yearly Trend of Program Registrants
+Kampus Mengajar is a large-scale initiative encompassing tens of thousands of college students across Indonesia. To sustain the program's growth annually, it's imperative to ensure its continued relevance and responsiveness to region-specific challenges and issues. As a data analyst, I conduct a thorough analysis of yearly program registrants to provide insightful recommendations for the board. This analysis aids in crafting updated policies and refining program concepts to drive continuous improvement and development.
+
+[View Presentation](https://drive.google.com/file/d/1l9vjwra2v0ned6o15fqAIV3sZZZ3ibib/view)
+
 # Develop a Data Tracker for Report Submission Progress
 Kampus Mengajar assigns college students to schools in remote areas with literacy and numeracy challenges. To officially begin their assignments, these students must register with local education authorities as representatives of The Ministry of Education. As a data analyst, I developed an active and dynamic dashboard tracker, integrated with various Google Forms to monitor the report submission progress of each participant. This ensures that all relevant authorities are promptly informed and the process remains efficient and transparent.
 
